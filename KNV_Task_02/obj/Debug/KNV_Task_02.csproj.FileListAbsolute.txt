@@ -1,0 +1,6 @@
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\bin\Debug\KNV_Task_02.exe.config
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\bin\Debug\KNV_Task_02.exe
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\bin\Debug\KNV_Task_02.pdb
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\obj\Debug\KNV_Task_02.csproj.CoreCompileInputs.cache
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\obj\Debug\KNV_Task_02.exe
+C:\Users\KanekiKen\source\repos\TrainingPractice_01\KNV_Task_02\obj\Debug\KNV_Task_02.pdb
